@@ -13,6 +13,8 @@
 
 * How is the company funded? How much funding have they received?
 
+[Snowflake Inc.](https://www.snowflake.com/en/)
+
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
