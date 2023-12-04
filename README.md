@@ -3,16 +3,6 @@
 
 ## Overview and Origin
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
 Founded by tech excutives Benoît Dageville, Thierry Cruanes and Marcin Żukowski, [Snowflake Inc.](https://www.snowflake.com/en/) is a cloud-based data warehousing software as service company. Headquartered in Bozeman, Montana, the company was founded in 2012 and was publicly launched in October 2014 after two years of stealth mode operation. The company provides solutions that enables businesses to store and analyze large amounts of data in a highly scalable, secure, and efficient manner. The platform supports a wide range of data workloads, including data engineering, data lakes, data warehousing, data science, data applications, and data sharing. Snowflake's unique architecture allows customers to independently - and on demand -  scale separate compute and storage capabilities. This leads to cost-effectiveness and improved performance. This flexibility is particularly beneficial for organizations dealing with big data and those requiring advanced analytics capabilities, such as AI and machine learning ventures.
 
 The following quote from the company's website illustrates their ongoing work on AI. 
