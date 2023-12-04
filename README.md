@@ -73,5 +73,5 @@ After coming out of stealth mode in 2014, It raised $26 million. This was follow
 - [Snowflake Computing raises $100 million to expand cloud data warehouse footprint](https://www.zdnet.com/article/snowflake-computing-raises-100-million-to-expand-cloud-data-warehouse-footprint/)
 - [Snowflake lands massive $263 million investment on unicorn valuation](https://techcrunch.com/2018/01/25/snowflake-lands-263-million-investment-on-unicorn-valuation/)
 - [With huge new $450M funding round, Snowflake Computing has now raised almost $1 billion](https://www.geekwire.com/2018/huge-new-450m-funding-round-snowflake-computing-now-raised-almost-1-billion/)
-- [https://www.geekwire.com/2018/huge-new-450m-funding-round-snowflake-computing-now-raised-almost-1-billion/](https://www.wsj.com/articles/snowflakes-shares-soar-in-ipo-11600275246)
+- [Snowflake’s Stock Price Soars in IPO](https://www.wsj.com/articles/snowflakes-shares-soar-in-ipo-11600275246)
 - 
