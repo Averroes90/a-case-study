@@ -5,7 +5,7 @@
 
 Founded by tech excutives Benoît Dageville, Thierry Cruanes and Marcin Żukowski, [Snowflake Inc.](https://www.snowflake.com/en/) is a cloud-based data warehousing software as service company. Headquartered in Bozeman, Montana, the company was founded in 2012 and was publicly launched in October 2014 after two years of stealth mode operation. The company provides solutions that enables businesses to store and analyze large amounts of data in a highly scalable, secure, and efficient manner. The platform supports a wide range of data workloads, including data engineering, data lakes, data warehousing, data science, data applications, and data sharing. Snowflake's unique architecture allows customers to independently - and on demand -  scale separate compute and storage capabilities. This leads to cost-effectiveness and improved performance. This flexibility is particularly beneficial for organizations dealing with big data and those requiring advanced analytics capabilities, such as AI and machine learning ventures.
 
-The following quote from the company's website illustrates their ongoing work on AI. 
+The following quote from the company's website illustrates some of their ongoing work on AI. 
 > Snowflake is bringing generative AI into data, empowering teams to maximise the value of the data by identifying the right data points, assets, and insights.
 >
 > That’s why Snowflake has recently acquired three companies that are helping bring advanced AI and deep learning to the Data Cloud:
@@ -18,7 +18,7 @@ Given AI is highly interwoven into the DNA of snowflake's operations, it is diff
 
 After coming out of stealth mode in 2014, It raised $26 million. This was followed by an additional $45 million in 2015 and another $100 million in April 2017. In January 2018, the company announced a $263 million financing round at a $1.5 billion valuation, making it a unicorn. On February 7, 2020, the company raised another $479 million and finally culminating in a highly anticipated IPO on September 16, 2020 raising $3.4 billion miking it one of the largest software IPOs in history. 
 
-## Business Activities
+## Business Activities of Snowflake Inc. 
 
 * What specific problem is the company or project trying to solve?
 
@@ -27,6 +27,8 @@ After coming out of stealth mode in 2014, It raised $26 million. This was follow
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+A massive unicorn, Snowflake 
 
 ## Landscape
 
