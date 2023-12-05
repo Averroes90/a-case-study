@@ -73,39 +73,81 @@ Snowflake incorporates a consumption-based pricing strategy where customers only
     Companies need a flexible, scalable data warehousing platform that meets their changing needs. Snowflake’s product offering is customizable, allowing its users to store data in the cloud according to their specifications. Its revolutionary data architecture allows for easy scalability and is compatible with cross-cloud applications and databases.
    
   - **Market Recognition:**
-  - **Strong financials:** 
+ 
+    Being recognized by your market is essential. Snowflake’s recognition stems from its innovation and next-generation technologies, converging to create a new data management standard. In 2019, Gartner recognized Snowflake in the magic quadrant for Data Management Solutions for Analytics alongside significant players such as Oracle, Microsoft, and Amazon Web Services.
+    
+  - **Strong financials:**
+ 
+    Since its IPO, Snowflake has shown its ability to generate and maintain strong financials. Its trailing-twelve-month revenue for 2020 was $0.256 billion. In 2021, it recorded annual revenue of $0.592 billion, a 123.63 percent increase year over year. It is not surprising to see the strong current market capitalization of $94.338 billion with such growth.
   
 - **Weaknesses**
   - **Use case pricing strategy can be expensive:**
+ 
+    While its use case pricing strategy is beneficial to its clients, it may be difficult for companies with varying needs. Data management costs are usually extrapolated over time and can be an additional cost that some businesses may not want to pay for. Many users need a simple solution that doesn’t involve complicated configurations.
+    
   - **Limited product diversity:**
+ 
+    With its heavy focus on data warehousing, Snowflake lacks product diversity. While it is a leading contender in the space, other companies such as Microsoft and Oracle provide more attractive features and come standard with solutions that care for most business needs. It’s not that Snowflake’s product offering is terrible; it just falls short compared to more competitive products.
     
 - **Opportunities
   - **Expansion in the Big Data market:**
+ 
+    As businesses exponentially increase their data collection, they need big data solutions that can help them improve decision-making and grow their profit margins. With its recent acquisition of Cryptonumerics, Snowflake has expanded to offer this service, which provides anonymized datasets with quantifiable risks. This product offering will provide businesses with a competitive edge to make informed decisions.
+    
   - **Strategic Acquisitions:**
+
+    The Company has not been shy about its capitalistic intentions; its acquisition of Cryptonumerics is a prelude to more acquisitions in the coming years. Further, with its IPO and strong financials, it can now acquire more companies to expand its product offerings.
     
 - **Threats**
+  - **Competition:**
+ 
+    Strong companies do not become strong without facing worthy opponents. Like all other product providers, Snowflake faces competition from its industry-leading competitors, including Oracle, Amazon Web Services (AWS), and Microsoft. Snowflake lacks the diversity of products these companies provide and often comes in second place when necessary cross-cloud compatibility. However, Snowflake’s robust product offering and revolutionary data architecture, as well as its strategic acquisitions, attempts to reduce this gap and firmly place them as a front-runner in the industry.
+    
+  - **Early Winner’s Curse:**
+ 
+    A strong IPO, solid first-year financials, and recognition from industry experts like Gartner put Snowflake in a unique position with high expectations. If these traditional metrics begin to falter, investors may show some skepticism and present the classic case of the early winner’s curse. It may not be the end of the world for Snowflake, but if it doesn’t meet these metrics, investors may sour on the company and diminish its reputation.
   
-  See Below. 
-  
-### Competition:
+### Snowflake Competitor Analysis
 
-## Results
+The global Data Warehouse as a service (DWaaS) market size is set to grow at a CAGR of 22.3 percent to 12.9 billion by 2026. Snowflake is competing in a market with a clear opportunity for growth. This section analyzes some of the key players in this market, focusing on their competitive advantages and market share in different segments, financials, and product offerings.
 
-* What has been the business impact of this company so far?
+- **Oracle ADW**
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+  Oracle is a multinational corporation that specializes in business software and cloud computing. Its success is primarily attributed to its good brand recognition, more comprehensive product range, and diversified revenue streams. Oracle boasts a market capitalization of $258.033 billion, with 2021 revenues totaling $40.5 billion. The company’s cloud services and licenses revenues increased by 5 percent to $28.7 billion in 2021.
 
-* How is your company performing relative to competitors in the same field?
+While Oracle’s product diversity and comprehensive offerings give it a strong competitive edge, Snowflake is a strong competitor. Its innovative data architecture and solid financials place it as a major contender in the industry. According to Slintel, Snowflake controls 15.93 percent of the data warehousing market compared to 13.98 percent held by Oracle ADW.
+This data indicates that while Oracle is an established company with profound brand recognition, it fails to use its capital and market influence in other segments to compete with up-and-coming startups like Snowflake. Not that Snowflake is a small startup; however, Oracle’s size and momentum make it an intimidating competitor.
 
-## Recommendations
+- **Amazon Redshift**
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+  Amazon Redshift, a subsidiary of Amazon.com, is a cloud-based data warehouse that provides petabyte-scale data storage and analytics services. It delivers scalable, cost-effective data warehousing and analytic solutions. Through Amazon (AWS), businesses can scale database capacity easily to meet the demands of their applications.
+  In Q1 2021, AWS generated $14.8 billion in revenues. This includes all cloud computing and hosting revenues. According to Slintel, Amazon Redshift controls $23.46 percent of the DWaaS market. While it enjoys Amazon’s massive revenue stream and brand recognition, Stitchdata considers Snowflake a better platform, especially when starting your data warehouse journey.
 
-* Why do you think that offering this product or service would benefit the company?
+Competing in a DWaas market heavily influenced by Amazon.com presents opportunities and challenges for up-and-coming cloud aggregators like Snowflake. The opportunity lies in the fact that Amazon Redshift is a subsidiary of Amazon, meaning it can take advantage of its massive market influence. The challenge lies in the fact that it’s challenging to compete against Amazon’s established market presence.
 
-* What technologies would this additional product or service utilize?
+- **Microsoft Azure Data Warehouse**
 
-* Why are these technologies appropriate for your solution?
+  Microsoft Azure is a cloud computing platform and infrastructure created by Microsoft. Azure has evolved from its early beginnings as a Platform-as-a-Service (PaaS) cloud computing framework into a comprehensive suite of cloud services.
+
+The Microsoft Azure Data Warehouse offers flexible, scalable, enterprise-grade cloud storage. It provides fast performance at lower costs than traditional data warehouses. In the cloud infrastructure market, Microsoft Azure controls about 22 percent of the market share. Although Snowflake is a small competitor in this segment, cloud infrastructure contributes a large chunk of Microsoft’s revenues.
+
+In Q2 2021, Microsoft Azure’s revenue grew by 51 percent compared to Q2 2020. Although Microsoft doesn’t publish exact revenue figures, Azure contributes an overwhelming portion. Due to the sheer size of Microsoft’s market influence, its growth in cloud services will likely continue to expand.
+
+- **Google BigQuery**
+
+  Google BigQuery is a cloud-based data warehouse that uses Google’s large-scale data processing infrastructure. BigQuery provides fast query performance at lower costs than traditional data warehouses. It features server-less web service architecture that helps it compute and store massive amounts of data. In addition, in case of any scaling issues, BigQuery provides a fully automated elastic scaling feature.
+
+As part of the larger Google Cloud Platform, BigQuery contributes to the robust growth of Google’s cloud services segment. In Q2 2021, Google cloud contributed $4.6 billion, representing 54 percent growth year over year. Data from Slintel indicates that Google BigQuerry has a 12.17 percent market share in the data warehousing market with about 4330 customers. 
+
+BigQuerry stands out against Snowflake because it has an enormous market influence, combined with Google’s massive revenue stream. Snowflake must balance its unique selling points against Google’s existing brand recognition and revenue stream. Although Snowflake is a small competitor, its brand recognition and subscription model might help it stand out to customers.
+
+## Results & reccomendations
+
+Snowflake is a strong competitor in the data warehousing market with a unique focus on simplicity, transparency, flexibility, and scalability. Its transparent use-based pricing model could allow businesses to avoid paying for features that they don’t need. Its focus on simplicity makes it a reliable partner for data management.
+
+Despite strong contention from industry leaders such as Teradata and Amazon Web Services, Snowflake could become a market leader in the data cloud space. Even with a strong IPO and strong financials, Snowflake’s future success will depend on its ability to maintain existing customers and attract new clients.
+
+
 
 ## References and resources 
 
@@ -120,3 +162,4 @@ Snowflake incorporates a consumption-based pricing strategy where customers only
 - [Snowflake’s Stock Price Soars in IPO](https://www.wsj.com/articles/snowflakes-shares-soar-in-ipo-11600275246)
 - [THE ROLE OF LARGE LANGUAGE MODELS (LLMS) IN MACHINE LEARNING](https://www.snowflake.com/guides/large-language-models-llms-machine-learning)
 - [Snowflake Competitors Analysis](https://businesschronicler.com/competitors/snowflake-competitors-analysis/)
+- [Market Share of Snowflake](https://6sense.com/tech/data-warehousing/snowflake-market-share)
