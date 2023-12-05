@@ -28,7 +28,7 @@ After coming out of stealth mode in 2014, It raised $26 million. This was follow
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-A massive unicorn, Snowflake 
+A massive cloud warehousing unicorn, Snowflake offers a wide variety of solutions to a plethora of different customers of all sizes and business fields. 
 
 ## Landscape
 
