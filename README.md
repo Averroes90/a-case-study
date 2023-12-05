@@ -39,10 +39,23 @@ The Snowflake Data Cloud is designed to support and advance machine learning ini
 
 - **Build LLM-powered data apps**
 
-  >Data scientists no longer need to be tethered to a front-end developer to build intuitive, easy-to-use data apps. Using Streamlit, a pure-Python open-source application framework, data scientists can quickly and easily create beautiful, intuitive data applications. With Streamlit, Snowflake users can use LLMs to build apps with integrations to web-hosted LLM APIs using external functions and Streamlit as an interactive front end for LLM-powered apps.
+  Data scientists no longer need to be tethered to a front-end developer to build intuitive, easy-to-use data apps. Using Streamlit, a pure-Python open-source application framework, data scientists can quickly and easily create beautiful, intuitive data applications. With Streamlit, Snowflake users can use LLMs to build apps with integrations to web-hosted LLM APIs using external functions and Streamlit as an interactive front end for LLM-powered apps.
+  
 - **Aggregate and analyze unstructured data**
+
+  Unstructured data is one of the fastest-growing data types, but historically, there was no easy way to aggregate and analyze that data. To continue securely offering, discovering, and consuming all types of governed data, Snowflake acquired Applica, a purpose-built, multi-modal LLM for document intelligence.
+  
 - **Interactive data search**
+
+  Snowflake’s recent acquisition of Neeva is accelerating data search through generative AI. It enables conversational paradigms for asking questions and retrieving information, allowing teams to discover precisely the right data point, data asset, or data insight.
+  
 - **Superior data security and governance**
+
+  Snowflake is a leader in modern data security and governance. With robust security features built into the Data Cloud, including dynamic data masking and end-to-end encryption for data in transit and at rest, you can focus on analyzing your data, not protecting it. Snowflake complies with numerous government and data security compliance standards, having achieved Federal Risk & Authorization Management Program (FedRAMP) Authorization to Operate (ATO) at the Moderate level and StateRAMP Authorization at the High level. In addition, Snowflake supports ITAR compliance, SOC 2 Type 2, PCI DSS compliance, and HITRUST compliance.
+
+>BUILT FOR AI: RUN YOUR LARGE LANGUAGE MODELS IN SNOWFLAKE
+>
+>The Snowflake Data Cloud’s scalability, flexibility, and performance provide a powerful foundation for LLM-enabled machine learning applications. Snowflake paves the way for unlocking the capabilities of large language models, including enhanced language understanding, text generation, and advanced analytics at scale. 
 
 ## Landscape
 
