@@ -89,7 +89,7 @@ Snowflake incorporates a consumption-based pricing strategy where customers only
  
     With its heavy focus on data warehousing, Snowflake lacks product diversity. While it is a leading contender in the space, other companies such as Microsoft and Oracle provide more attractive features and come standard with solutions that care for most business needs. It’s not that Snowflake’s product offering is terrible; it just falls short compared to more competitive products.
     
-- **Opportunities
+- **Opportunities**
   - **Expansion in the Big Data market:**
  
     As businesses exponentially increase their data collection, they need big data solutions that can help them improve decision-making and grow their profit margins. With its recent acquisition of Cryptonumerics, Snowflake has expanded to offer this service, which provides anonymized datasets with quantifiable risks. This product offering will provide businesses with a competitive edge to make informed decisions.
