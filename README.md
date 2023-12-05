@@ -20,14 +20,6 @@ After coming out of stealth mode in 2014, It raised $26 million. This was follow
 
 ## Business Activities of Snowflake Inc. 
 
-* What specific problem is the company or project trying to solve?
-
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 A massive cloud warehousing unicorn, Snowflake offers a wide variety of solutions to a plethora of different customers of all sizes and business fields. AI and ML are a mainsty of most of Snowflake's solitions. In this study I will be  Specifically focusing on LLMs 
 
 ### Snowflake for LLM-Enabled Machine Learning Applications
@@ -94,4 +86,5 @@ The Snowflake Data Cloud is designed to support and advance machine learning ini
 - [Snowflake lands massive $263 million investment on unicorn valuation](https://techcrunch.com/2018/01/25/snowflake-lands-263-million-investment-on-unicorn-valuation/)
 - [With huge new $450M funding round, Snowflake Computing has now raised almost $1 billion](https://www.geekwire.com/2018/huge-new-450m-funding-round-snowflake-computing-now-raised-almost-1-billion/)
 - [Snowflake’s Stock Price Soars in IPO](https://www.wsj.com/articles/snowflakes-shares-soar-in-ipo-11600275246)
+- [THE ROLE OF LARGE LANGUAGE MODELS (LLMS) IN MACHINE LEARNING](https://www.snowflake.com/guides/large-language-models-llms-machine-learning)
 
