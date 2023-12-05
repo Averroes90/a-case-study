@@ -57,7 +57,8 @@ A massive unicorn, Snowflake
 * Why are these technologies appropriate for your solution?
 
 ## References and resources 
-[^1]: [Longtime Microsoft Executive Opens Cloud Database Start-Up](https://archive.nytimes.com/bits.blogs.nytimes.com/2014/10/21/longtime-microsoft-executive-opens-cloud-database-start-up/)
+<sub> 
+- [Longtime Microsoft Executive Opens Cloud Database Start-Up](https://archive.nytimes.com/bits.blogs.nytimes.com/2014/10/21/longtime-microsoft-executive-opens-cloud-database-start-up/)
 - [Form 10K](https://www.sec.gov/ix?doc=/Archives/edgar/data/1640147/000164014723000030/snow-20230131.htm)
 - [Artificial Intelligence products](https://www.snowflake.com/trending/artificial-intelligence-products)
 - [This big data startup is as unique as a snowflake](https://fortune.com/2015/06/23/big-data-startup-snowflake/)
@@ -67,3 +68,4 @@ A massive unicorn, Snowflake
 - [With huge new $450M funding round, Snowflake Computing has now raised almost $1 billion](https://www.geekwire.com/2018/huge-new-450m-funding-round-snowflake-computing-now-raised-almost-1-billion/)
 - [Snowflake’s Stock Price Soars in IPO](https://www.wsj.com/articles/snowflakes-shares-soar-in-ipo-11600275246)
 - 
+</sub>
