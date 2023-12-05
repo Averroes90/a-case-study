@@ -35,7 +35,7 @@ The Snowflake Data Cloud is designed to support and advance machine learning ini
 
 - **Access all training data in a single location**
 
-Machine learning models require massive amounts of data for training and deployment. When relevant data is spread across numerous source systems, looking for and requesting access to data significantly slows development. Snowflake provides a single point of access to a global network of trusted data. With Snowflake, you can bring nearly all data types into your model without complex pipelines and enjoy native support for structured, semi-structured (JSON, Avro, ORC, Parquet, or XML), and unstructured data.
+>Machine learning models require massive amounts of data for training and deployment. When relevant data is spread across numerous source systems, looking for and requesting access to data significantly slows development. Snowflake provides a single point of access to a global network of trusted data. With Snowflake, you can bring nearly all data types into your model without complex pipelines and enjoy native support for structured, semi-structured (JSON, Avro, ORC, Parquet, or XML), and unstructured data.
 
 - **Build LLM-powered data apps**
 - **Aggregate and analyze unstructured data**
