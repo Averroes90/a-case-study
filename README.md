@@ -28,11 +28,17 @@ After coming out of stealth mode in 2014, It raised $26 million. This was follow
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-A massive cloud warehousing unicorn, Snowflake offers a wide variety of solutions to a plethora of different customers of all sizes and business fields. Specifically within the scope of AI and machine learning, Snowflake addresses specific challenges: 
+A massive cloud warehousing unicorn, Snowflake offers a wide variety of solutions to a plethora of different customers of all sizes and business fields. AI and ML are a mainsty of most of Snowflake's solitions. In this study I will be  Specifically focusing on LLMs 
 
-- **Data Accessibility for AI/ML**: AI and ML models require vast, diverse, and well-organized datasets. Snowflake eliminates the common barriers in data accessibility and integration, crucial for effective AI and ML training and execution.
-- **Scalability for AI/ML Workloads**: AI and ML projects often demand scalable compute and storage resources due to their fluctuating nature. Snowflake's cloud-native architecture allows dynamic scaling, which is essential for handling varying AI and ML workloads.
-- **Real-time Data Processing**: AI and ML models, especially in predictive analytics, require real-time data processing capabilities. Snowflake facilitates this with its high-speed data processing features.
+### Snowflake for LLM-Enabled Machine Learning Applications
+The Snowflake Data Cloud is designed to support and advance machine learning initiatives. As the pace of innovation quickens, Snowflake spearheads support for the next generation of AI-powered technologies. 
+
+- **Access all training data in a single location**
+Machine learning models require massive amounts of data for training and deployment. When relevant data is spread across numerous source systems, looking for and requesting access to data significantly slows development. Snowflake provides a single point of access to a global network of trusted data. With Snowflake, you can bring nearly all data types into your model without complex pipelines and enjoy native support for structured, semi-structured (JSON, Avro, ORC, Parquet, or XML), and unstructured data. 
+- **Build LLM-powered data apps**
+- **Aggregate and analyze unstructured data**
+- **Interactive data search**
+- **Superior data security and governance**
 
 ## Landscape
 
