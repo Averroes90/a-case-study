@@ -35,9 +35,11 @@ The Snowflake Data Cloud is designed to support and advance machine learning ini
 
 - **Access all training data in a single location**
 
->Machine learning models require massive amounts of data for training and deployment. When relevant data is spread across numerous source systems, looking for and requesting access to data significantly slows development. Snowflake provides a single point of access to a global network of trusted data. With Snowflake, you can bring nearly all data types into your model without complex pipelines and enjoy native support for structured, semi-structured (JSON, Avro, ORC, Parquet, or XML), and unstructured data.
+  Machine learning models require massive amounts of data for training and deployment. When relevant data is spread across numerous source systems, looking for and requesting access to data significantly slows development. Snowflake provides a single point of access to a global network of trusted data. With Snowflake, you can bring nearly all data types into your model without complex pipelines and enjoy native support for structured, semi-structured (JSON, Avro, ORC, Parquet, or XML), and unstructured data. 
 
 - **Build LLM-powered data apps**
+
+  >Data scientists no longer need to be tethered to a front-end developer to build intuitive, easy-to-use data apps. Using Streamlit, a pure-Python open-source application framework, data scientists can quickly and easily create beautiful, intuitive data applications. With Streamlit, Snowflake users can use LLMs to build apps with integrations to web-hosted LLM APIs using external functions and Streamlit as an interactive front end for LLM-powered apps.
 - **Aggregate and analyze unstructured data**
 - **Interactive data search**
 - **Superior data security and governance**
