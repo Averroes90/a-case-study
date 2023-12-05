@@ -114,32 +114,26 @@ The global Data Warehouse as a service (DWaaS) market size is set to grow at a C
 - **Oracle ADW**
 
   Oracle is a multinational corporation that specializes in business software and cloud computing. Its success is primarily attributed to its good brand recognition, more comprehensive product range, and diversified revenue streams. Oracle boasts a market capitalization of $258.033 billion, with 2021 revenues totaling $40.5 billion. The company’s cloud services and licenses revenues increased by 5 percent to $28.7 billion in 2021.
-
-While Oracle’s product diversity and comprehensive offerings give it a strong competitive edge, Snowflake is a strong competitor. Its innovative data architecture and solid financials place it as a major contender in the industry. According to Slintel, Snowflake controls 15.93 percent of the data warehousing market compared to 13.98 percent held by Oracle ADW.
+  While Oracle’s product diversity and comprehensive offerings give it a strong competitive edge, Snowflake is a strong competitor. Its innovative data architecture and solid financials place it as a major contender in the industry. According to Slintel, Snowflake controls 15.93 percent of the data warehousing market compared to 13.98 percent held by Oracle ADW.
 This data indicates that while Oracle is an established company with profound brand recognition, it fails to use its capital and market influence in other segments to compete with up-and-coming startups like Snowflake. Not that Snowflake is a small startup; however, Oracle’s size and momentum make it an intimidating competitor.
 
 - **Amazon Redshift**
 
   Amazon Redshift, a subsidiary of Amazon.com, is a cloud-based data warehouse that provides petabyte-scale data storage and analytics services. It delivers scalable, cost-effective data warehousing and analytic solutions. Through Amazon (AWS), businesses can scale database capacity easily to meet the demands of their applications.
   In Q1 2021, AWS generated $14.8 billion in revenues. This includes all cloud computing and hosting revenues. According to Slintel, Amazon Redshift controls $23.46 percent of the DWaaS market. While it enjoys Amazon’s massive revenue stream and brand recognition, Stitchdata considers Snowflake a better platform, especially when starting your data warehouse journey.
-
-Competing in a DWaas market heavily influenced by Amazon.com presents opportunities and challenges for up-and-coming cloud aggregators like Snowflake. The opportunity lies in the fact that Amazon Redshift is a subsidiary of Amazon, meaning it can take advantage of its massive market influence. The challenge lies in the fact that it’s challenging to compete against Amazon’s established market presence.
+  Competing in a DWaas market heavily influenced by Amazon.com presents opportunities and challenges for up-and-coming cloud aggregators like Snowflake. The opportunity lies in the fact that Amazon Redshift is a subsidiary of Amazon, meaning it can take advantage of its massive market influence. The challenge lies in the fact that it’s challenging to compete against Amazon’s established market presence.
 
 - **Microsoft Azure Data Warehouse**
 
   Microsoft Azure is a cloud computing platform and infrastructure created by Microsoft. Azure has evolved from its early beginnings as a Platform-as-a-Service (PaaS) cloud computing framework into a comprehensive suite of cloud services.
-
-The Microsoft Azure Data Warehouse offers flexible, scalable, enterprise-grade cloud storage. It provides fast performance at lower costs than traditional data warehouses. In the cloud infrastructure market, Microsoft Azure controls about 22 percent of the market share. Although Snowflake is a small competitor in this segment, cloud infrastructure contributes a large chunk of Microsoft’s revenues.
-
-In Q2 2021, Microsoft Azure’s revenue grew by 51 percent compared to Q2 2020. Although Microsoft doesn’t publish exact revenue figures, Azure contributes an overwhelming portion. Due to the sheer size of Microsoft’s market influence, its growth in cloud services will likely continue to expand.
+  The Microsoft Azure Data Warehouse offers flexible, scalable, enterprise-grade cloud storage. It provides fast performance at lower costs than traditional data warehouses. In the cloud infrastructure market, Microsoft Azure controls about 22 percent of the market share. Although Snowflake is a small competitor in this segment, cloud infrastructure contributes a large chunk of Microsoft’s revenues.
+  In Q2 2021, Microsoft Azure’s revenue grew by 51 percent compared to Q2 2020. Although Microsoft doesn’t publish exact revenue figures, Azure contributes an overwhelming portion. Due to the sheer size of Microsoft’s market influence, its growth in cloud services will likely continue to expand.
 
 - **Google BigQuery**
 
   Google BigQuery is a cloud-based data warehouse that uses Google’s large-scale data processing infrastructure. BigQuery provides fast query performance at lower costs than traditional data warehouses. It features server-less web service architecture that helps it compute and store massive amounts of data. In addition, in case of any scaling issues, BigQuery provides a fully automated elastic scaling feature.
-
-As part of the larger Google Cloud Platform, BigQuery contributes to the robust growth of Google’s cloud services segment. In Q2 2021, Google cloud contributed $4.6 billion, representing 54 percent growth year over year. Data from Slintel indicates that Google BigQuerry has a 12.17 percent market share in the data warehousing market with about 4330 customers. 
-
-BigQuerry stands out against Snowflake because it has an enormous market influence, combined with Google’s massive revenue stream. Snowflake must balance its unique selling points against Google’s existing brand recognition and revenue stream. Although Snowflake is a small competitor, its brand recognition and subscription model might help it stand out to customers.
+  As part of the larger Google Cloud Platform, BigQuery contributes to the robust growth of Google’s cloud services segment. In Q2 2021, Google cloud contributed $4.6 billion, representing 54 percent growth year over year. Data from Slintel indicates that Google BigQuerry has a 12.17 percent market share in the data warehousing market with about 4330 customers.
+  BigQuerry stands out against Snowflake because it has an enormous market influence, combined with Google’s massive revenue stream. Snowflake must balance its unique selling points against Google’s existing brand recognition and revenue stream. Although Snowflake is a small competitor, its brand recognition and subscription model might help it stand out to customers.
 
 ## Results & reccomendations
 
