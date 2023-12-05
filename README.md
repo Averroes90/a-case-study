@@ -65,9 +65,13 @@ Snowflake incorporates a consumption-based pricing strategy where customers only
 
 - **Strengths**
   - **Strong Customer Base:**
+    
     Having an existing customer base is essential for Snowflake’s bottom line. Snowflake’s client base provides a consistent revenue cycle and allows the company to forecast more accurately. It boasts more than 100 clients with a trailing 12-month revenue gather of more than $1 million. Its Q1 2020 financials recorded 4,532 customers, with more than 187 of them from Fortune 500 companies.
+  
   - **Strong Product Offering:**
+    
     Companies need a flexible, scalable data warehousing platform that meets their changing needs. Snowflake’s product offering is customizable, allowing its users to store data in the cloud according to their specifications. Its revolutionary data architecture allows for easy scalability and is compatible with cross-cloud applications and databases.
+   
   - **Market Recognition:**
   - **Strong financials:** 
   
@@ -80,6 +84,7 @@ Snowflake incorporates a consumption-based pricing strategy where customers only
   - **Strategic Acquisitions:**
     
 - **Threats**
+  
   See Below. 
   
 ### Competition:
