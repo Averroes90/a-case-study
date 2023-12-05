@@ -57,6 +57,33 @@ The Snowflake Data Cloud is designed to support and advance machine learning ini
 
 * What are the other major companies in this field?
 
+While some may consider the company’s growth a bubble, Snowflake’s growth is backed by a solid business strategy. Its ability to innovate its product with a focus on key markets and retention of current clients give the company an advantage over its competitors.
+
+Snowflake incorporates a consumption-based pricing strategy where customers only pay for the services they use. This pricing strategy is beneficial to companies with varying required data processing needs. It allows them to scale their spending when necessary and pull back during slow periods. Through this strategy, Snowflake can better gauge its client’s needs and improve its product offering while maintaining a smooth revenue cycle.
+
+### Snowflake SWOT Analysis 
+
+- **Strengths**
+  - **Strong Customer Base:**
+    Having an existing customer base is essential for Snowflake’s bottom line. Snowflake’s client base provides a consistent revenue cycle and allows the company to forecast more accurately. It boasts more than 100 clients with a trailing 12-month revenue gather of more than $1 million. Its Q1 2020 financials recorded 4,532 customers, with more than 187 of them from Fortune 500 companies.
+  - **Strong Product Offering:**
+    Companies need a flexible, scalable data warehousing platform that meets their changing needs. Snowflake’s product offering is customizable, allowing its users to store data in the cloud according to their specifications. Its revolutionary data architecture allows for easy scalability and is compatible with cross-cloud applications and databases.
+  - **Market Recognition:**
+  - **Strong financials:** 
+  
+- **Weaknesses**
+  - **Use case pricing strategy can be expensive:**
+  - **Limited product diversity:**
+    
+- **Opportunities
+  - **Expansion in the Big Data market:**
+  - **Strategic Acquisitions:**
+    
+- **Threats**
+  See Below. 
+  
+### Competition:
+
 ## Results
 
 * What has been the business impact of this company so far?
@@ -87,4 +114,4 @@ The Snowflake Data Cloud is designed to support and advance machine learning ini
 - [With huge new $450M funding round, Snowflake Computing has now raised almost $1 billion](https://www.geekwire.com/2018/huge-new-450m-funding-round-snowflake-computing-now-raised-almost-1-billion/)
 - [Snowflake’s Stock Price Soars in IPO](https://www.wsj.com/articles/snowflakes-shares-soar-in-ipo-11600275246)
 - [THE ROLE OF LARGE LANGUAGE MODELS (LLMS) IN MACHINE LEARNING](https://www.snowflake.com/guides/large-language-models-llms-machine-learning)
-
+- [Snowflake Competitors Analysis](https://businesschronicler.com/competitors/snowflake-competitors-analysis/)
